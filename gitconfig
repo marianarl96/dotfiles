@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = regueiram7@gmail.com
+	name = MARIANA REGUEIRA
